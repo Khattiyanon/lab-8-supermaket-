@@ -101,3 +101,4 @@ http://localhost:3000
 - **ลบสินค้า** — มี Modal ยืนยันก่อนลบ พร้อมลบไฟล์รูปออกจาก server
 - **Out of Stock** — แสดง Badge สีแดงเมื่อสต็อก = 0
 - **Success Toast** — แจ้งเตือนสีเขียวหลังดำเนินการสำเร็จ
+"# lab-8-supermaket-" 
